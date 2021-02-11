@@ -28,5 +28,8 @@ public class MainActivity extends AppCompatActivity {
         savedata.Alarmset(Hour,Minute);
         savedata.SaveData(Hour,Minute);
 
+
+        //Hello
+
     }
 }
