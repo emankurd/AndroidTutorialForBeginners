@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a73e3872-507b-4af9-b825-254b2e16766d" name="Default Changelist" comment="" />
+    <list default="true" id="a73e3872-507b-4af9-b825-254b2e16766d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,13 +37,33 @@
       <option name="presentableId" value="Default" />
       <updated>1612951114901</updated>
     </task>
+    <task id="LOCAL-00001" summary="anything">
+      <created>1613041123686</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613041123687</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="anything" />
+    <option name="LAST_COMMIT_MESSAGE" value="anything" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1613038356843">
+    <state x="226" y="0" key="CommitChangelistDialog2" timestamp="1613041122740">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613038356843" />
+    <state x="226" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1613041122740" />
+    <state x="129" y="54" key="DiffContextDialog" timestamp="1613041088845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="54" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1613041088845" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1613041208234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613041208234" />
     <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1612951868203">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
